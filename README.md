@@ -4,7 +4,7 @@
 2. https://msguides.com/windows-10
 
 
-#Cara Upgrade Windows 11 home ke Windows 11 Pro Free
+# Cara Upgrade Windows 11 home ke Windows 11 Pro Free
 
 1. kamu harus hapus dulu menghapus kunci produk dari sistem di CMD -->> slmgr /upk
 2. lalu masuk lagi cmd dan jalankan perintah -->> slmgr /ipk VK7JG-NPHTM-C97JM-9MPGT-3V66T
