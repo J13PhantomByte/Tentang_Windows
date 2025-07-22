@@ -15,3 +15,12 @@
 7. dan pilih windows untuk aktivasi
 8. tunggu dan selesai kamu berhasil aktivasi permanent secara gratis
 
+# PDF ANTI COPY (ACTIVE PRODUCT KEY)
+
+```json
+{
+  F8KAP2LWY95NTG4
+}
+```
+
+hhal
