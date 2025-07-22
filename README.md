@@ -18,9 +18,7 @@
 # PDF ANTI COPY (ACTIVE PRODUCT KEY)
 
 ```json
-{
   F8KAP2LWY95NTG4
-}
 ```
 
 hhal
